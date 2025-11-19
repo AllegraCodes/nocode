@@ -12,14 +12,16 @@ main.no
 
 ## Linters
 
-There is only one way to write no code and the `du` command can help you identify any issues. 
+There is only one way to write no code and your built-in 👀 command can help you identify any issues. 
 
 ```
-du -h main.no
+main.no <- 👀
 ```
 
+Expect to see:
+
 ```
-0       main.no
+
 ```
 
 > The only valid code is no code.
